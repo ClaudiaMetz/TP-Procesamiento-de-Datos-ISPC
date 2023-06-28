@@ -9,7 +9,7 @@ Colaboradores:
 
 - Ezequias Blanco
 
-\*\* OBJETIVO DEL PROYECTO
+OBJETIVO DEL PROYECTO
 Conocer los salarios relacionados con la Ciencia de Datos a nivel mundial.
 
 DESCRIPCIÓN
