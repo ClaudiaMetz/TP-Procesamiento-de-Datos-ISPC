@@ -2,10 +2,11 @@
 
 TP grupal para Procesamiento de Datos, 2023. Tema: Salarios y otros temas en Data Science 2023
 
+
 OBJETIVO DEL PROYECTO
 Conocer los salarios y otros temas relacionados con la Ciencia de Datos a nivel mundial.
 
-link al Google Colab: https://colab.research.google.com/drive/1-1q1JdXSgfzxKnV5nyIpMrZRNrnzFFAj?usp=sharing
+  link al Google Colab: https://colab.research.google.com/drive/1-1q1JdXSgfzxKnV5nyIpMrZRNrnzFFAj?usp=sharing
 
 
 DESCRIPCIÓN
@@ -23,12 +24,14 @@ Podremos observar información referida a:
 
   link al informe: https://docs.google.com/document/d/1SM96CHJiVVugnLd4grZ7TyaXyngTRfg1liZKi1dPUaE/edit?usp=sharing
 
+
 Instrucciones para ponerlo en marcha.
 
 - Importar bibliotecas necesarias.
 - Cargar el archivo CSV.
 - Mostrar primeras filas del Dataframe resultante.
 - Muestra de los gráficos mencionados anteriormente.
+
 
 Problemas o dificultades encontradas durante el desarrollo y sus soluciones.
 
@@ -40,5 +43,4 @@ Colaboradores:
 
 - Claudia Metz
 
-- Ezequias Blanco
-
+- Jonathan Bustos
