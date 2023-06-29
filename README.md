@@ -2,14 +2,8 @@
 
 TP grupal para Procesamiento de Datos, 2023. Tema: Salarios en Data Science 2023
 
-Colaboradores:
-
-- Claudia Metz
-
-- Ezequias Blanco
-
 OBJETIVO DEL PROYECTO
-Conocer los salarios relacionados con la Ciencia de Datos a nivel mundial.
+Conocer los salarios y otros temas relacionados con la Ciencia de Datos a nivel mundial.
 
 link al Google Colab: https://colab.research.google.com/drive/1-1q1JdXSgfzxKnV5nyIpMrZRNrnzFFAj?usp=sharing
 
@@ -39,4 +33,12 @@ Instrucciones para ponerlo en marcha.
 Problemas o dificultades encontradas durante el desarrollo y sus soluciones.
 
 - Ponernos de acuerdo en que tema elegir para el proyecto.
-- Elegimos aquel que muestra información más relevante para nuestras carreras como son los salarios que se manejan a nivel mundial.
+- Elegimos aquel que muestra información más relevante para nuestras carreras como son los salarios, seniorities y ubicaciones que se manejan a nivel mundial.
+
+  
+Colaboradores:
+
+- Claudia Metz
+
+- Ezequias Blanco
+
