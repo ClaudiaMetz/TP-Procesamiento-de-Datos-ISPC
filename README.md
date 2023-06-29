@@ -1,16 +1,16 @@
 # TP-Procesamiento-de-Datos-ISPC
 
-TP grupal para Procesamiento de Datos, 2023. Tema: Salarios en Data Science 2023
+TP grupal para Procesamiento de Datos, 2023. Tema: Salarios y otros tópicos en Data Science 2023
 link al Google Colab: https://colab.research.google.com/drive/1-1q1JdXSgfzxKnV5nyIpMrZRNrnzFFAj?usp=sharing
 
 Colaboradores:
 
 - Claudia Metz
 
-- Ezequias Blanco
-
+- Jonathan Bustos
+  
 OBJETIVO DEL PROYECTO
-Conocer los salarios relacionados con la Ciencia de Datos a nivel mundial.
+Conocer los salarios y otros temas relacionados con la Ciencia de Datos a nivel mundial.
 
 DESCRIPCIÓN
 Podremos observar información referida a:
@@ -35,4 +35,4 @@ Instrucciones para ponerlo en marcha.
 Problemas o dificultades encontradas durante el desarrollo y sus soluciones.
 
 - Ponernos de acuerdo en que tema elegir para el proyecto.
-- Elegimos aquel que muestra información más relevante para nuestras carreras como son los salarios que se manejan a nivel mundial.
+- Elegimos aquel que muestra información más relevante para nuestras carreras como son los salarios, los seniorities y las ubicaciones que se manejan a nivel mundial.
