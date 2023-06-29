@@ -1,6 +1,6 @@
 # TP-Procesamiento-de-Datos-ISPC
 
-TP grupal para Procesamiento de Datos, 2023. Tema: Salarios en Data Science 2023
+TP grupal para Procesamiento de Datos, 2023. Tema: Salarios y otros temas en Data Science 2023
 
 OBJETIVO DEL PROYECTO
 Conocer los salarios y otros temas relacionados con la Ciencia de Datos a nivel mundial.
